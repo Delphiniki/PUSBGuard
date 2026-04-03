@@ -1,3 +1,7 @@
+# Copyright (c) 2026 Nikolay Chotrov
+# Licensed under the MIT License.
+# See LICENSE file in the project root for full license information.
+
 import tkinter as tk
 from tkinter import messagebox, ttk, simpledialog, scrolledtext, filedialog
 import subprocess, os, sys, winreg, pystray, hashlib, ctypes, threading, time
