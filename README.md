@@ -8,7 +8,7 @@ Python USB Guard for Windows with whitelist
 :credit_card: [![PayPal](https://shields.io)](https://buymeacoffee.com/Delphiniki)
 
 ## Direct Link to executable:
-- [Download PUSBGuard_V1.0.exe (Direct Link)](https://github.com/Delphiniki/PUSBGuard/raw/refs/heads/main/build/PUSBGuard_V1.0.exe)
+- [Download PUSBGuard_V1.0.exe ](https://github.com/Delphiniki/PUSBGuard/raw/refs/heads/main/build/PUSBGuard_V1.0.exe)
 
 
 ## Sreenshots:
