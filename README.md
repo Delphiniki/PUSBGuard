@@ -58,6 +58,7 @@ The final executable will be located in the dist/ folder.
 ## ⚖️ Disclaimer
 This tool modifies system-level registry keys and scheduled tasks. Use at your own risk. The developer is not responsible for accidental system lockouts.
 
-## 🎁 Donations
-[![BuyMeACoffee](https://shields.io)](https://buymeacoffee.com/Delphiniki)
-[![PayPal](https://paypalobjects.com)](https://paypal.me/NikiChotrov)
+## 🎁 Donations # Support my work
+# If you find this project helpful, you can support me  here:
+[![BuyMeACoffee](https://shields.io)](https://buymeacoffee.com/Delphiniki)    [![PayPal](https://paypalobjects.com)](https://paypal.me/NikiChotrov)
+
