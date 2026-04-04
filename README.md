@@ -44,7 +44,7 @@ pyinstaller --noconsole --onefile --uac-admin --name=PUSBGuard_V1 pusbguard.py
 
 * --noconsole: Hides the command prompt window on startup.
 * --onefile: Bundles everything into a single .exe.
-* --admin: Requests UAC elevation automatically.
+* --uac-admin: Requests UAC elevation automatically.
 
 4. Locate Output
 The final executable will be located in the dist/ folder.
