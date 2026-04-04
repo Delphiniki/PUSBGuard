@@ -58,8 +58,8 @@ The final executable will be located in the dist/ folder.
 ------------------------------
 ## 🔒 Security Verification
 
-* SHA-256 Hash: bd318cf03e393c4918d1514ac98fcbb1edf1b3a0847150a65522f29df04c373c
-* VirusTotal: [View Scan Results](https://www.virustotal.com/gui/file/bd318cf03e393c4918d1514ac98fcbb1edf1b3a0847150a65522f29df04c373c)
+* SHA-256 Hash: 0ae642a07a2da6c613b96af22cc3bf8bed077aeb99929bc248c88a91bfd68c80
+* VirusTotal: [View Scan Results](https://www.virustotal.com/gui/file/0ae642a07a2da6c613b96af22cc3bf8bed077aeb99929bc248c88a91bfd68c80)
 
 ------------------------------
 ## ⚖️ Disclaimer
