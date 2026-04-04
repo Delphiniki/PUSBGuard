@@ -29,6 +29,7 @@ Python USB Guard for Windows with whitelist
 * 📡 Multi-Channel Alerting: Real-time notifications via Telegram, ntfy.sh, and Pushover with built-in anti-spam cooling.
 * ⚡ Defender Negotiation: Automatically injects Microsoft Defender exclusions for the agent process and root directory during initialization.
 * 🖥️ Enterprise Ready: Fully compatible with Windows 11 Pro/LTSC and Windows Server 2022.
+* ℹ️ Notice: For starting application with system boot,enable option "Start Application Minimized to Tray".
 
 ------------------------------
 
