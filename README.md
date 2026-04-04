@@ -3,12 +3,11 @@ Python USB Guard for Windows with whitelist
 
 
 ## Sreenshots:
-<p align="center">
-  <img src="images/pusbguard_dash.png" width="45%" />
-  <img src="images/pusbguard_logs.png" />
-</p>
-
-<p align="center">
-  <img src="images/pusbguard_notif.png" width="45%" />
-  <img src="images/pusbguard_set.png" width="45%" />
-</p>
+<details>
+  <summary>Click to view App Screenshots</summary>
+  <br>
+  <img src="images/pusbguard_dash.png" alt="Home">
+  <img src="images/pusbguard_logs.png" alt="Edit Profile">
+  <img src="images/pusbguard_notif.png" alt="Analytics">
+  <img src="images/pusbguard_set.png" alt="Analytics">
+</details>
