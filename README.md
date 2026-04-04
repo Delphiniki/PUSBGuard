@@ -30,6 +30,26 @@ Python USB Guard for Windows with whitelist
 * 🖥️ Enterprise Ready: Fully compatible with Windows 11 Pro/LTSC and Windows Server 2022.
 
 ------------------------------
+
+⚠️ Running for the First Time (Windows SmartScreen) 
+Because PUSBGuard_V1.0 is an unsigned open-source tool, Windows may display a "Windows protected your PC" warning. This is a standard security feature for unrecognized apps. 
+To run the application safely:
+
+    Right-click the PUSBGuard_V1.exe file and select Properties.
+    In the General tab, look for the Security section at the bottom and check the Unblock box.
+    Click Apply and then OK.
+    Alternatively, when the blue warning box appears, click "More info" and then select "Run anyway". 
+
+Why the warning appears:
+
+    Unsigned Binary: As an independent project, this .exe does not have a paid digital certificate.
+    PyInstaller Wrapper: The tool used to bundle the Python code into an .exe is sometimes flagged by heuristic engines as a "false positive".
+    Administrative Actions: The app manages Registry keys and Scheduled Tasks, which are sensitive system behaviors. 
+
+Verify the integrity yourself:
+Always check the SHA-256 hash provided in this README against your downloaded file using PowerShell:
+Get-FileHash .\PUSBGuard_V1.0.exe 
+
 ## 🛠️ How to Rebuild the App
 To build the standalone .exe from the source, follow these steps:
 1. Prerequisites
