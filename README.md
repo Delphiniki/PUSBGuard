@@ -50,8 +50,8 @@ The final executable will be located in the dist/ folder.
 ------------------------------
 ## 🔒 Security Verification
 
-* SHA-256 Hash: [Paste your build hash here]
-* VirusTotal: [View Scan Results](virustotal.com[Paste your hash here])
+* SHA-256 Hash: bd318cf03e393c4918d1514ac98fcbb1edf1b3a0847150a65522f29df04c373c
+* VirusTotal: [View Scan Results](https://www.virustotal.com/gui/file/bd318cf03e393c4918d1514ac98fcbb1edf1b3a0847150a65522f29df04c373c)
 
 ------------------------------
 ## ⚖️ Disclaimer
