@@ -30,7 +30,8 @@ To build the standalone .exe from the source, follow these steps:
 * Python 3.10+
 * Install required libraries:
 
-pip install Pillow keyring pystray requests
+pip install -r requirements.txt
+
 
 
 2. Prepare the Source
