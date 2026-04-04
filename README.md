@@ -64,5 +64,5 @@ This tool modifies system-level registry keys and scheduled tasks. Use at your o
 
 ## 🎁  Support my work
 # If you find this project helpful, you can support me  here:
-[![Buy Me A Coffee](https://shields.io)](https://buymeacoffee.com/Delphiniki)    [![PayPal](https://paypalobjects.com)](https://paypal.me/NikiChotrov)
+[![💰 Buy Me A Coffee](https://shields.io)](https://buymeacoffee.com/Delphiniki)    :credit_card: [![PayPal](https://shields.io)](https://buymeacoffee.com/Delphiniki)
 
